@@ -1,5 +1,5 @@
 # 💫 About Me:
- 👋 Hello, I’m Amit Dhoju<br><br>I’m a full‑stack JavaScript engineer from Bhaktapur, Nepal, with over 5 years of experience building scalable web applications using React, Vue.js, Node.js, TypeScript, and Python scripting.<br>
+ 👋 Hello, I’m Amit Dhoju<br><br>I’m a full‑stack JavaScript engineer from Bhaktapur, Nepal, with over 6 years of experience building scalable web applications using React, Next.js.js, Node.js, TypeScript, and Python scripting.<br>
  **🔭 Currently working on**  <br>**Meroparty** — a real-time, scalable event platform built with React and Node.js. I also maintain CI/CD pipelines using GitHub Actions and mentor junior developers.<br>
  **👯 Looking to collaborate on**  <br>Open‑source projects involving React, Vue.js, Node.js/Express, TypeScript, or anything that enhances system performance and accelerates deployment.<br>
  **🤝 Always happy to team up on**  <br>Projects needing strong full-stack skills, clean code, and smart deployment strategies — especially where I can help improve speed and efficiency.<br>
